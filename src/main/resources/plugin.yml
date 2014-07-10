@@ -1,0 +1,3 @@
+name: FerusGrim-t3
+main: com.tenjava.entries.FerusGrim.t3.TenJava
+version: '${project.version}'
